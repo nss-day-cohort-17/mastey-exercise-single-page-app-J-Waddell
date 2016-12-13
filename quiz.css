@@ -1,0 +1,26 @@
+body {
+    background: url(http://hdimages.org/wp-content/uploads/2016/10/css-background-image-HD6-1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h2{
+    color: #ecf0f1;
+}
+
+.btn {
+border-radius: 3em;
+height: 2em;
+text-align: center;
+box-shadow: 10px 5px 5px #7f8c8d;
+background-color: #FFC107;
+color: white;
+padding: 0 1em;
+margin-top: .5em;
+ }
+
+#carList {
+    color: #ecf0f1;
+}

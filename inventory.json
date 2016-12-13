@@ -1,15 +1,25 @@
 {
-        "Cars" : [
-         {
-        "make": "Ford",
-        "model": "Mustang GT350R",
-        "year": "2016",
-        "price": "75,000",
-        "description": "This beauty is only two years old with a minute number of one owner. This vehicle has only but 3,000 miles on it.",
-
-        "make": "",
-        "model": "",
-        "year":
-                }
-        ]
+    "cars" : [
+        {
+            "make": "Ford",
+            "model": "Mustang GT350R",
+            "year": "2016",
+            "price": "$75,000",
+            "description": "This beauty is only one year old with a minute number of one owner. This vehicle has only but 3,000 miles on it and has a crushing 526 RWHP."
+        },
+        {
+            "make": "Chevrolet",
+            "model": "Corvette Z06",
+            "year": "2017",
+            "price": "$79,450",
+            "description": "An American classic reborn. This brand new Chevrolet Corvette Z06 comes with 650 RWHP and is a sleek race-red with black accents inside and out. If you're looking for a white knuckle experience this car is for you."
+        },
+        {
+            "make": "Dodge",
+            "model": "Challenger SRT Hellcat",
+            "year": "2017",
+            "price": "$62,495",
+            "description": "The Hellcat is currently known as the most powerful muscle car straight off the lot with a massive 707 RWHP."
+        }
+    ]
 }
