@@ -1,3 +1,4 @@
+
 body {
     background: url(http://hdimages.org/wp-content/uploads/2016/10/css-background-image-HD6-1.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -18,9 +19,41 @@ box-shadow: 10px 5px 5px #7f8c8d;
 background-color: #FFC107;
 color: white;
 padding: 0 1em;
-margin-top: .5em;
+margin-left: 2em;
  }
 
 #carList {
     color: #ecf0f1;
+    font-size: 1.5em;
+    background-color: #7f8c8d;
+    box-shadow: 10px 5px 5px white;
+    line-height: 2em;
+}
+
+#inputMessage {
+    margin-top: 1em;
+}
+
+/*car images*/
+#mustang {
+ height: 15em;
+ width: 25em;
+ margin: 5em;
+ border: solid 3px;
+}
+
+#corvette {
+    height: 15em;
+    width: 25em;
+    margin: 5em;
+}
+
+#challenger {
+    height: 15em;
+    width: 25em;
+    margin: 5em;
+}
+/*cards*/
+.card-deck {
+    color: white;
 }
