@@ -2,7 +2,7 @@
 var allCars = 0;
 // loading the car inventory
 function loadCarInventory(e) {
-        var data = JSON.parse(e.target.responseText)
+        var data = JSON.parse(e.target.responseText).name
         console.log("data", data);
         var carContent = ""
         for(var i = 0; i < data.cars.length; i++) {
